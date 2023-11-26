@@ -1,0 +1,3 @@
+# Predicting Housing Prices in New York City: A Machine Learning Approach
+## Overview
+This research leverages a comprehensive dataset encompassing published housing property transactions and crime information in New York City. The primary objective is to develop a robust house price prediction model at the zip code level. The analysis employs three machine learning models, namely XGBoost Regression, Random Forest, and Linear Regression, to discern patterns and predict property prices accurately. Additionally, the research elucidates detailed data processing strategies and identifies the most influential features contributing to property price variations.
